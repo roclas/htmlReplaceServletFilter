@@ -1,0 +1,4 @@
+Bundle-Activator: htmlchangerservletfilter.HtmlChangerServletFilterActivator
+Bundle-Name: htmlChangerServletFilter
+Bundle-SymbolicName: htmlchangerservletfilter
+Bundle-Version: 1.0.0
